@@ -1,2 +1,2 @@
-# projeto-resilia-grupo-modulo3
-Projeto em grupo do modulo 3 curso resilia
+# Projeto-Resilia-G-M3
+Projeto em Grupo do Módulo 3 do Curso de Desenvolvimento Web FullStack Resília, 
